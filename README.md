@@ -1,13 +1,14 @@
 # ACM-trans-papers-spider
- This is a interoperational net spider program to get a list of papers (e.g., title and doi link) from the repository of ACM transations journal papers.
+ This is an interoperational net spider program to get a list of papers (e.g., title and doi link) from the repository of ACM transations journal papers.
 
 Running environment(Pthon 3.6.5 with the following libraries):
+
 import requests
 import os
 import re
 from bs4 import BeautifulSoup
 
-Stephs:
+Steps:
 1. Get the Python file ACMPaperSpider.py
 
 2. Run it in terminal with python ACMPaperSpider.py
