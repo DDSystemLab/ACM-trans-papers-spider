@@ -1,0 +1,320 @@
+paper1
+Title：Introduction
+Doi_link：https://doi.org/10.1145/2893179
+==========================
+paper2
+Title：Employing Software-Managed Caches in OpenACC: Opportunities and Benefits
+Doi_link：https://doi.org/10.1145/2798724
+==========================
+paper3
+Title：Validating the Simulation of Large-Scale Parallel Applications Using Statistical Characteristics
+Doi_link：https://doi.org/10.1145/2809778
+==========================
+paper4
+Title：Dealing with Dead Ends: Efficient Routing in Darknets
+Doi_link：https://doi.org/10.1145/2809779
+==========================
+paper5
+Title：Sojourn Time Approximations for a Discriminatory Processor Sharing Queue
+Doi_link：https://doi.org/10.1145/2812807
+==========================
+paper6
+Title：PREFiguRE: An Analytic Framework for HDD Management
+Doi_link：https://doi.org/10.1145/2872331
+==========================
+paper7
+Title：Estimation of Flow Distributions from Sampled Traffic
+Doi_link：https://doi.org/10.1145/2891106
+==========================
+paper8
+Title：A Unified Approach to the Performance Analysis of Caching Systems
+Doi_link：https://doi.org/10.1145/2896380
+==========================
+paper9
+Title：Design and Analysis of Incentive and Reputation Mechanisms for Online Crowdsourcing  Systems
+Doi_link：https://doi.org/10.1145/2897510
+==========================
+paper10
+Title：Energy--Performance Trade-Offs via the EP Queue
+Doi_link：https://doi.org/10.1145/2818726
+==========================
+paper11
+Title：Performance Evaluation of Dynamic Page Allocation Strategies in SSDs
+Doi_link：https://doi.org/10.1145/2829974
+==========================
+paper12
+Title：Coding Rate Analysis of Forbidden Overlap Codes in High-Speed Buses
+Doi_link：https://doi.org/10.1145/2846091
+==========================
+paper13
+Title：Estimating the Transmission Probability in Wireless Networks with Configuration Models
+Doi_link：https://doi.org/10.1145/2858795
+==========================
+paper14
+Title：Scheduling Storms and Streams in the Cloud
+Doi_link：https://doi.org/10.1145/2904080
+==========================
+paper15
+Title：PEAS: A Performance Evaluation Framework for Auto-Scaling Strategies in Cloud Applications
+Doi_link：https://doi.org/10.1145/2930659
+==========================
+paper16
+Title：Analysis of an Offloading Scheme for Data Centers in the Framework of Fog Computing
+Doi_link：https://doi.org/10.1145/2950047
+==========================
+paper17
+Title：A Control-Theoretic Analysis of Low-Priority Congestion Control Reprioritization under  AQM
+Doi_link：https://doi.org/10.1145/2934652
+==========================
+paper18
+Title：A Truthful Incentive Mechanism for Emergency Demand Response in Geo-Distributed Colocation  Data Centers
+Doi_link：https://doi.org/10.1145/2950046
+==========================
+paper19
+Title：False-Positive Probability and Compression Optimization for Tree-Structured Bloom  Filters
+Doi_link：https://doi.org/10.1145/2940324
+==========================
+paper20
+Title：Contention-Aware Workload Placement for In-Memory Databases in Cloud Environments
+Doi_link：https://doi.org/10.1145/2961888
+==========================
+paper21
+Title：Fairness and Incentive Considerations in Energy Apportionment Policies
+Doi_link：https://doi.org/10.1145/2970816
+==========================
+paper22
+Title：On Fair Attribution of Costs Under Peak-Based Pricing to Cloud Tenants
+Doi_link：https://doi.org/10.1145/2970815
+==========================
+paper23
+Title：File Dissemination in Dynamic Graphs: The Case of Independent and Correlated Links in Series
+Doi_link：https://doi.org/10.1145/2981344
+==========================
+paper24
+Title：Self-Similarity in Social Network Dynamics
+Doi_link：https://doi.org/10.1145/2994142
+==========================
+paper25
+Title：Detecting Sponsored Recommendations
+Doi_link：https://doi.org/10.1145/2988543
+==========================
+paper26
+Title：Measurement, Modeling, and Analysis of the Mobile App Ecosystem
+Doi_link：https://doi.org/10.1145/2993419
+==========================
+paper27
+Title：Cocoa: Dynamic Container-Based Group Buying Strategies for Cloud Computing
+Doi_link：https://doi.org/10.1145/3022876
+==========================
+paper28
+Title：Evaluating the Combined Effect of Memory Capacity and Concurrency for Many-Core Chip  Design
+Doi_link：https://doi.org/10.1145/3038915
+==========================
+paper29
+Title：Advance Reservation Games
+Doi_link：https://doi.org/10.1145/3053046
+==========================
+paper30
+Title：Obtaining and Managing Answer Quality for Online Data-Intensive Services
+Doi_link：https://doi.org/10.1145/3055280
+==========================
+paper31
+Title：Efficient Redundancy Techniques for Latency Reduction in Cloud Systems
+Doi_link：https://doi.org/10.1145/3055281
+==========================
+paper32
+Title：Scheduling for Cloud-Based Computing Systems to Support Soft Real-Time Applications
+Doi_link：https://doi.org/10.1145/3063713
+==========================
+paper33
+Title：Copula Analysis of Temporal Dependence Structure in Markov Modulated Poisson Process  and Its Applications
+Doi_link：https://doi.org/10.1145/3089254
+==========================
+paper34
+Title：Controlling the Variability of Capacity Allocations Using Service Deferrals
+Doi_link：https://doi.org/10.1145/3086506
+==========================
+paper35
+Title：Insertion of PETSc in the OpenFOAM Framework
+Doi_link：https://doi.org/10.1145/3098821
+==========================
+paper36
+Title：Fast Power and Energy Management for Future Many-Core Systems
+Doi_link：https://doi.org/10.1145/3086504
+==========================
+paper37
+Title：The Economics of the Cloud
+Doi_link：https://doi.org/10.1145/3086574
+==========================
+paper38
+Title：Resource Auto-Scaling and Sparse Content Replication for Video Storage Systems
+Doi_link：https://doi.org/10.1145/3079045
+==========================
+paper39
+Title：Behavioral Model of IEEE 802.15.4 Beacon-Enabled Mode Based on Colored Petri Net
+Doi_link：https://doi.org/10.1145/3115389
+==========================
+paper40
+Title：Access-Time-Aware Cache Algorithms
+Doi_link：https://doi.org/10.1145/3149001
+==========================
+paper41
+Title：What You Lose When You Snooze: How Duty Cycling Impacts on the Contact Process in Opportunistic Networks
+Doi_link：https://doi.org/10.1145/3149007
+==========================
+paper42
+Title：Bargaining Game-Based Scheduling for Performance Guarantees in Cloud Computing
+Doi_link：https://doi.org/10.1145/3141233
+==========================
+paper43
+Title：Selecting the Top-Quality Item Through Crowd Scoring
+Doi_link：https://doi.org/10.1145/3157736
+==========================
+paper44
+Title：Mean-Field Analysis of Coding Versus Replication in Large Data Storage Systems
+Doi_link：https://doi.org/10.1145/3159172
+==========================
+paper45
+Title：EQ: A QoE-Centric Rate Control Mechanism for VoIP Calls
+Doi_link：https://doi.org/10.1145/3170430
+==========================
+paper46
+Title：An Online Emergency Demand Response Mechanism for Cloud Computing
+Doi_link：https://doi.org/10.1145/3177755
+==========================
+paper47
+Title：Special Issue: Selected Paper From the 8th ACM/SPEC International Conference on Performance Engineering  (ICPE 2017)
+Doi_link：https://doi.org/10.1145/3186329
+==========================
+paper48
+Title：An Empirical Analysis of Amazon EC2 Spot Instance Features Affecting Cost-Effective  Resource Procurement
+Doi_link：https://doi.org/10.1145/3164538
+==========================
+paper49
+Title：Disk Prefetching Mechanisms for Increasing HTTP Streaming Video Server Throughput
+Doi_link：https://doi.org/10.1145/3164536
+==========================
+paper50
+Title：An Experimental Performance Evaluation of Autoscalers for Complex Workflows
+Doi_link：https://doi.org/10.1145/3164537
+==========================
+paper51
+Title：RAPL in Action: Experiences in Using RAPL for Power Measurements
+Doi_link：https://doi.org/10.1145/3177754
+==========================
+paper52
+Title：Efficiency and Optimality of Largest Deficit First Prioritization: Dynamic User Prioritization for Soft Real-Time Applications
+Doi_link：https://doi.org/10.1145/3200479
+==========================
+paper53
+Title：CloudHeat: An Efficient Online Market Mechanism for Datacenter Heat Harvesting
+Doi_link：https://doi.org/10.1145/3199675
+==========================
+paper54
+Title：GPSonflow: Geographic Positioning of Storage for Optimal Nice Flow
+Doi_link：https://doi.org/10.1145/3197656
+==========================
+paper55
+Title：Searching for a Single Community in a Graph
+Doi_link：https://doi.org/10.1145/3200863
+==========================
+paper56
+Title：System and Architecture Level Characterization of Big Data Applications on Big and  Little Core Server Architectures
+Doi_link：https://doi.org/10.1145/3229049
+==========================
+paper57
+Title：Mean Field Games in Nudge Systems for Societal Networks
+Doi_link：https://doi.org/10.1145/3232076
+==========================
+paper58
+Title：Ensuring Persistent Content in Opportunistic Networks via Stochastic Stability Analysis
+Doi_link：https://doi.org/10.1145/3232161
+==========================
+paper59
+Title：QMLE: A Methodology for Statistical Inference of Service Demands from Queueing Data
+Doi_link：https://doi.org/10.1145/3233180
+==========================
+paper60
+Title：Scale-Out vs Scale-Up: A Study of ARM-based SoCs on Server-Class Workloads
+Doi_link：https://doi.org/10.1145/3232162
+==========================
+paper61
+Title：Quantifying Cloud Performance and Dependability: Taxonomy, Metric Design, and Emerging Challenges
+Doi_link：https://doi.org/10.1145/3236332
+==========================
+paper62
+Title：On the Convergence of the TTL Approximation for an LRU Cache under Independent Stationary  Request Processes
+Doi_link：https://doi.org/10.1145/3239164
+==========================
+paper63
+Title：Efficient Traffic Load-Balancing via Incremental Expansion of Routing Choices
+Doi_link：https://doi.org/10.1145/3243173
+==========================
+paper64
+Title：EnergyQARE: QoS-Aware Data Center Participation in Smart Grid Regulation Service Reserve Provision
+Doi_link：https://doi.org/10.1145/3243172
+==========================
+paper65
+Title：A Quantitative and Comparative Study of Network-Level Efficiency for Cloud Storage  Services
+Doi_link：https://doi.org/10.1145/3274526
+==========================
+paper66
+Title：Effect of Recommendations on Serving Content with Unknown Demand
+Doi_link：https://doi.org/10.1145/3289324
+==========================
+paper67
+Title：Managing Response Time Tails by Sharding
+Doi_link：https://doi.org/10.1145/3300143
+==========================
+paper68
+Title：Provisioning and Performance Evaluation of Parallel Systems with Output Synchronization
+Doi_link：https://doi.org/10.1145/3300142
+==========================
+paper69
+Title：Efficient Straggler Replication in Large-Scale Parallel Computing
+Doi_link：https://doi.org/10.1145/3310336
+==========================
+paper70
+Title：Production Application Performance Data Streaming for System Monitoring
+Doi_link：https://doi.org/10.1145/3319498
+==========================
+paper71
+Title：Performance of Redundancy(d) with Identical/Independent Replicas
+Doi_link：https://doi.org/10.1145/3316768
+==========================
+paper72
+Title：Optimizing N-Tier Application Scalability in the Cloud: A Study of Soft Resource Allocation
+Doi_link：https://doi.org/10.1145/3326120
+==========================
+paper73
+Title：SORT: Semi Online Reliable Task Mapping for Embedded Multi-Core Systems
+Doi_link：https://doi.org/10.1145/3322899
+==========================
+paper74
+Title：Performance of a Fixed Reward Incentive Scheme for Two-hop DTNs with Competing Relays
+Doi_link：https://doi.org/10.1145/3325288
+==========================
+paper75
+Title：On the Endurance of the d-Choices Garbage Collection Algorithm for Flash-Based SSDs
+Doi_link：https://doi.org/10.1145/3326121
+==========================
+paper76
+Title：A New Framework for Evaluating Straggler Detection Mechanisms in MapReduce
+Doi_link：https://doi.org/10.1145/3328740
+==========================
+paper77
+Title：Packet Clustering Introduced by Routers: Modeling, Analysis, and Experiments
+Doi_link：https://doi.org/10.1145/3345032
+==========================
+paper78
+Title：Investigating Characteristics of Internet Paths
+Doi_link：https://doi.org/10.1145/3342286
+==========================
+paper79
+Title：Scheduling for Optimal File-Transfer Delay using Chunked Random Linear Network Coding  Broadcast
+Doi_link：https://doi.org/10.1145/3340242
+==========================
+paper80
+Title：Generalization of LRU Cache Replacement Policy with Applications to Video Streaming
+Doi_link：https://doi.org/10.1145/3345022
+==========================
