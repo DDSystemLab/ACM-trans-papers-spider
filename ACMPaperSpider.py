@@ -35,12 +35,10 @@ class PaperSpider:
                 title = re.sub('\n', ' ', title).strip()
                 if title == "List of Reviewers":
                     continue
-                # print(title_box)
                 doi_num = str(title_box).split("/doi/abs", 1)[1].split("\">", 1)[0]
                 doi_link = "https://doi.org" + doi_num
                 pair = [doi_link, title]
                 current_issue_papers.append(pair)
-                # print(doi_link)
             print(current_issue_papers)
             self.store_paper_info(current_issue_papers)
             next_box = soup.find('a', attrs={'class': 'content-navigation__btn--next'})
@@ -64,22 +62,23 @@ class PaperSpider:
                     f.write("==========================\n")
                 self.papers_order += 1
         except:
-            print("")
+            return ""
 
 
-run = True
-while run:
-    print("Welcome to use the ACM Transactions journal papers Spider!")
-    start_url = input("Enter a start url or quit: ")
-    if start_url == 'quit':
-        print("Goodbye, human!")
-        run = False
-        break
-    file_name = input("Enter a filename (e.g., ACM_papers_list.txt) or quit: ")
-    if file_name == 'quit':
-        print("Goodbye, human!")
-        run = False
-        break
-    acmPerfModel = PaperSpider("acmPerfModel", start_url, file_name)
-    html_result = acmPerfModel.get_html(start_url)
-    acmPerfModel.parse_page(html_result)
+if __name__ == '__main__':
+    run = True
+    while run:
+        print("Welcome to use the ACM Transactions journal papers Spider!")
+        start_url = input("Enter a start url or quit: ")
+        if start_url == 'quit':
+            print("Goodbye, human!")
+            run = False
+            break
+        file_name = input("Enter a filename (e.g., ACM_papers_list.txt) or quit: ")
+        if file_name == 'quit':
+            print("Goodbye, human!")
+            run = False
+            break
+        acmPerfModel = PaperSpider("acmPerfModel", start_url, file_name)
+        html_result = acmPerfModel.get_html(start_url)
+        acmPerfModel.parse_page(html_result)
